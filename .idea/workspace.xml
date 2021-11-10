@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44603964-b901-48dd-9996-0848d0ed92ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CBFlask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Potrace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/557805_10151283878718322_818746235_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/557805_10151283878718322_818746235_n_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/557805_10151283878718322_818746235_n_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/557805_10151283878718322_818746235_n_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/557805_10151283878718322_818746235_n_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/557805_10151283878718322_818746235_n_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/557805_10151283878718322_818746235_n_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/557805_10151283878718322_818746235_n_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/557805_10151283878718322_818746235_n_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/557805_10151283878718322_818746235_n_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_15_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_15_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_84_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_85_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_85_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_86_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_86_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_86_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_87_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_88_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_96_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_96_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_96_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_98_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Screenshot_98_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/finalimage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CannyBlurFirst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputImages/214976098_528888931762649_6447481952862325486_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputImages/Vulture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputImages/ash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputImages/astro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputImages/bogata.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputImages/david.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputImages/donald.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputImages/horse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputImages/london.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputImages/race.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiInputs/family.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/214976098_528888931762649_6447481952862325486_n/214976098_528888931762649_6447481952862325486_nkMeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/214976098_528888931762649_6447481952862325486_n/Contours.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/214976098_528888931762649_6447481952862325486_n/MedianBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/214976098_528888931762649_6447481952862325486_n/MedianBlurGray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/Vulture/Contours.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/Vulture/MedianBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/Vulture/MedianBlurGray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/Vulture/Vulture.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/Vulture/Vulture.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/Vulture/VulturekMeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/ash/Contours.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/ash/MedianBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/ash/MedianBlurGray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/ash/ash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/ash/ashkMeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/astro/Contours.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/astro/MedianBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/astro/MedianBlurGray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/astro/astro.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/astro/astrokMeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/bogata/Contours.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/bogata/MedianBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/bogata/MedianBlurGray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/bogata/bogata.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/bogata/bogatakMeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/david/Contours.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/david/MedianBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/david/MedianBlurGray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/david/david.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/david/davidkMeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/donald/Contours.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/donald/MedianBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/donald/MedianBlurGray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/donald/donald.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/donald/donaldkMeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/family/Contours.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/family/MedianBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/family/MedianBlurGray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/family/family.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/family/familykMeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/horse/Contours.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/horse/MedianBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/horse/MedianBlurGray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/horse/horse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/horse/horsekMeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/london/Contours.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/london/MedianBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/london/MedianBlurGray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/london/london.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/london/londonkMeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/race/Contours.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/race/MedianBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/race/MedianBlurGray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/race/race.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiOutput/race/racekMeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtilityFunctions.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yXe5jUAtioA3O0sfCrBCwFB9Hh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.flask_app">
+    <configuration name="CannyBlurFirst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CBFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CannyBlurFirst.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CBFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.flask_app" />
+        <item itemvalue="Python.CannyBlurFirst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44603964-b901-48dd-9996-0848d0ed92ad" name="Changes" comment="" />
+      <created>1632402179431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632402179431</updated>
+      <workItem from="1632402187911" duration="5923000" />
+      <workItem from="1632550442756" duration="786000" />
+      <workItem from="1632551782142" duration="2466000" />
+      <workItem from="1632648391465" duration="600000" />
+      <workItem from="1633025850066" duration="457000" />
+      <workItem from="1633026376064" duration="1853000" />
+      <workItem from="1633076169865" duration="1533000" />
+      <workItem from="1633162545281" duration="616000" />
+      <workItem from="1633177863079" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CBFlask$CannyBlurFirst.coverage" NAME="CannyBlurFirst Coverage Results" MODIFIED="1632424706262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlaskApp$flask_app.coverage" NAME="flask_app Coverage Results" MODIFIED="1633076507793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
