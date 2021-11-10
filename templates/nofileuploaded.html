@@ -1,0 +1,172 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personalised Colouring Prints</title>
+    <link rel="stylesheet" href="https://eu.pythonanywhere.com/user/SpeedyRogue/files/home/SpeedyRogue/colouring/templates/styles.css?edit">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9552825960289082"
+     crossorigin="anonymous"></script>
+
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7V48MF7SZB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-7V48MF7SZB');
+    </script>
+
+
+     <style>
+     body{
+    background-image: url("static/Backgrounds/gradienta-LeG68PrXA6Y-unsplash.jpg");
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    }
+    h1 {
+      text-align: center;
+    }
+    footer{
+    height: 50px;
+    width:100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    font-family: Arial;
+    color: White;
+    padding-left: 80px;
+    padding-right: 80px;
+    }
+    .bg {
+      /* The image used */
+      background-image: url("static/Backgrounds/gradienta-LeG68PrXA6Y-unsplash.jpg");
+
+      /* Full height */
+      height: 100%;
+
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+     .DescriptionDiv {
+      border-radius: 25px;
+      background-color: white;
+      text-align: center;
+      border-color: Black;
+      border-style: solid;
+      border-width: medium;
+      font-family: Arial;
+      padding-top: 5px;
+      padding-right: 30px;
+      padding-bottom: 5px;
+      padding-left: 30px;
+      width: 50%;
+      margin: auto;
+    }
+    .WarningDiv {
+      border-radius: 25px;
+      background-color: white;
+      text-align: center;
+      border-color: red;
+      border-style: solid;
+      border-width: medium;
+      font-family: Arial;
+      padding-top: 5px;
+      padding-right: 30px;
+      padding-bottom: 5px;
+      padding-left: 30px;
+      width: 50%;
+      margin: auto;
+      margin-top: 20;
+    }
+    .vertical-center {
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+    .form{
+        text-align: center;
+        width: 50%;
+        margin: auto;
+        padding-top: 20px;
+        padding-right: 30px;
+        padding-bottom: 20px;
+        padding-left: 30px;
+    }
+    .CenterAdsense{
+        text-align: center;
+        margin: auto;
+        padding-top: 5px;
+        padding-right: 30px;
+        padding-bottom: 5px;
+        padding-left: 30px;
+    }
+    .GoodBad{
+        border-radius: 25px;
+        background-color: white;
+        width: 50%;
+        margin: auto;
+        border-style: solid;
+        padding-top: 30px;
+        border-color: Black;
+        border-width: medium;
+    }
+
+    .li{
+    margin: 30px 0;
+    }
+
+    </style>
+
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TXDGBC6"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+<div class="vertical-center">
+
+<h1 style="font-size:3vw">Personalised Colouring Prints</h1>
+
+<div class="DescriptionDiv">
+    Turn your favourite photos into relaxing colouring style prints. Create artwork for those rainy evenings to help you relax, or those school holidays when the kids won't sit still!</p>
+    Upload a .jpg or .png image and press the button to make the magic happen! The final outline will be downloaded to your computer as a PDF.
+</div>
+
+<!--
+<div class="WarningDiv">
+    Current problems: Images that are very wide will get cut off when being converted to the final PDF. Picking potrait photographs is advised.
+</div>
+-->
+
+<div class = "form">
+    <form enctype="multipart/form-data" method="POST">{{ form.csrf_token }} {{ form.image }} <button type="submit">Process</button> You must upload a file first.</form>
+</div>
+
+    <div class="GoodBad">
+        <bold><center>Tips:</bold></center>
+        <ul>
+            <li>Easier images (for children or young teens) should have 1 main subject and simple backgrounds.</li>
+            <li>Intermediate images (for teenagers) should have 2-3 main subjects and can start to include background features; such as trees or clouds.</li>
+            <li>Advanced images (for adults) have no limitations but here are a few tips. Images that make good colouring book prints are in focus, have the majority of the frame filled with the main subject, such as people's faces, and have clearly defined lines.<br>
+        Images that contain grass, carpet, or fur will take a long time to process and result in a more advanced colouring print, only the bravest colouring fans should attempt these.</li>
+        </ul>
+    </div>
+</div>
+
+
+<include src="templates/footer.html"></include>
+
+
+</body>
+</html>
+
+

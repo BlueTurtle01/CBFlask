@@ -1,0 +1,12 @@
+<h1>Gallery</h1>
+<table class="gallery">
+	{% for file_row in file_names |  batch(5)  %}
+    		<tr>
+      			{% for file in file_row %}
+        			{% if file %}
+          				<td><img src="/static/img/images/{{file}}" alt="User Image"></td>
+        			{% endif %}
+      			{% endfor %}
+    		</tr>
+	{% endfor %}
+</table>

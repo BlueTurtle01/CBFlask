@@ -1,0 +1,86 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personalised Artwork Prints</title>
+    <link type="text/css" rel="stylesheet" href="/static/styles.css">
+
+    <script type="text/javascript">
+        // create dataLayer
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        // set „denied" as default for both ad and analytics storage,
+        gtag("consent", "default", {
+            ad_storage: "denied",
+            analytics_storage: "denied",
+            wait_for_update: 2000 // milliseconds to wait for update
+        });
+
+        // Enable ads data redaction by default [optional]
+        gtag("set", "ads_data_redaction", true);
+    </script>
+
+    <script type="text/javascript">
+        // Google Tag Manager
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-XXXXX'); //replace GTM-XXXXXX with Google Tag Manager ID
+    </script>
+
+
+    <script id="usercentrics-cmp" src="https://app.usercentrics.eu/browser-ui/latest/loader.js" data-settings-id="ES5YYEx-p" async></script>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9552825960289082" crossorigin="anonymous"></script>
+
+
+<style>
+     .list-unstyled {
+        padding-left: 0;
+        list-style: none;
+    }
+    .list-inline {
+        padding-left: 0;
+        margin-left: -5px;
+        list-style: none;
+    }
+    .list-inline > li {
+        display: inline-block;
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+    .text-center {
+        text-align: center;
+    }
+
+
+</style>
+
+
+</head>
+
+<body>
+
+    <div class="DescriptionDiv">
+    <img src="{{ user_image }}" alt="User Image">
+        <a href="/return-files/{{filename}}" target="blank"><button class='btn btn-default'>Download!</button></a>
+
+
+    </div>
+
+</body>
+
+</html>
